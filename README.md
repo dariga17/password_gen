@@ -9,7 +9,7 @@ A website that offers fitness training services.
 * JavaScript
 
 ## Website
-
+https://dariga17.github.io/password_gen/
 
 ## Contribution
 Made with ❤️ by Dariga Iskakova
